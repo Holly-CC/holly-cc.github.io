@@ -11,10 +11,10 @@ p {font-size: 0.6em;}
 }
 #logo{
     margin: 0px;
-    padding: 5px;
+    padding: 2%;
     font-family: "Protest Guerrilla", sans-serif;
     
-    width: 50% ;
+    width: 20% ;
     border-radius: 10%;
 }
 ul{
